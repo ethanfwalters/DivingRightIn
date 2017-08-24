@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// bless up
+
 public class DivingRightIn
 	{
 
