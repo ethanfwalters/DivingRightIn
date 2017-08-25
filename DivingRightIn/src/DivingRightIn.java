@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 // bless up
+// im at home right now
 
 public class DivingRightIn
 	{
